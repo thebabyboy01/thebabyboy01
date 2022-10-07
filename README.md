@@ -1,16 +1,24 @@
-### Hi there 👋
+<img align="center" height="280px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-<!--
-**thebabyboy01/thebabyboy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🍭 Hola!!<br>🍭 How did you find me ??
+<br>
+<table>
+  <tr>
+   <td width="350px">
+     <h2>🛠 &nbsp;Tech Stack</h2>
+     <b>I don't know nothing.<br>Regards</b>
+      <br><br><br>
+   </td>
+   <td width="350px">
+    <div>
+      <h2><b>📲 &ensp;How to Reach Me</b></h2>
+      <b>Please don't contact me.</b><br>
+      <b>I won't respond.</b>
+      <br><br>
+      <br>
+    </div>
+   </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Only Redd Balloons 🎈🎈
