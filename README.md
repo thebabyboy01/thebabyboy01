@@ -1,4 +1,4 @@
-<img align="center" height="280px" alt="GIF" src="./ezgif.com-gif-maker (17).gif"/>
+<img align="center" alt="GIF" src="./ezgif.com-gif-maker (15).gif"/>
 
 # 🍭 Hola!!<br>🍭 How did you find me ??
 <br>
