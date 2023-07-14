@@ -1,5 +1,3 @@
-<img align="center" alt="GIF" src="hello.jpg" width="100%"/>
-
 <img align="center" height="280px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 # 🍭 Hola!!<br>🍭 How did you find me ??
